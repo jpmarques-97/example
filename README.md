@@ -7,3 +7,7 @@
 ## Minhas configs para utilizar connection service name
 
 ![local configs](./minhas_configs.png)
+
+## Log de erro
+
+![log de erro](./log_erro.png)
